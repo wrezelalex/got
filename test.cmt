@@ -1,0 +1,6 @@
+Name=test
+Author=hotdogporridge
+Message=https://raw.githubusercontent.com/wrezelalex/got/master/message
+CementFile=https://raw.githubusercontent.com/wrezelalex/got/master/test.cmt
+Links=https://raw.githubusercontent.com/wrezelalex/got/master/test.dll
+LatestVersion=https://raw.githubusercontent.com/wrezelalex/got/master/version
